@@ -1,0 +1,1 @@
+precio=input('Ingrese un numero: ')
